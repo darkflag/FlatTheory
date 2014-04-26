@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=FlatTheory
+Comment=A modern flat theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=FlatTheory
+MetacityTheme=FlatTheory
+ButtonLayout=:minimize,maximize,close
